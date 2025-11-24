@@ -28,6 +28,47 @@ Solutions are organized by pattern (following NeetCode organization):
 
 ---
 
+## Problem-Solving Approach (MANDATORY)
+
+**ALWAYS follow this progression for every problem:**
+
+### Step 1: Brute Force First (The "Dumb" Version)
+- Start with the simplest, most obvious solution
+- Use nested loops, basic conditionals - whatever works
+- Don't worry about optimization yet
+- This shows you understand the problem
+
+### Step 2: Analyze Complexity
+- Identify time complexity: O(n²), O(n³), etc.
+- Identify space complexity: O(1), O(n), etc.
+- Recognize why it's inefficient
+
+### Step 3: Optimize & Iterate
+- Ask: "What data structure could help?"
+  - Hash Map for O(1) lookups?
+  - Set for uniqueness checks?
+  - Stack for LIFO operations?
+  - Two pointers to avoid nested loops?
+- Reduce time complexity: O(n²) → O(n)
+- Consider space trade-offs
+
+### Step 4: Reach Optimal Solution
+- Can you reduce passes through the data?
+- Can you combine steps?
+- Is this the best possible complexity?
+
+### Why This Matters:
+- **Interviews expect this progression** - showing thought process > perfect answer
+- **Builds problem-solving skills** - you learn to recognize patterns
+- **Demonstrates understanding** - you know trade-offs, not just memorized solutions
+
+### Example: Two Sum
+1. **Brute Force**: Nested loops → O(n²) time, O(1) space
+2. **Better**: Two-pass hash map → O(n) time, O(n) space
+3. **Optimal**: One-pass hash map → O(n) time, O(n) space, fewer iterations
+
+---
+
 ## Solved Problems
 
 ### Arrays & Hashing (1/X)

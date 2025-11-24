@@ -46,7 +46,15 @@ function firstUniqChar(s: string): string | null {
     // TODO: Your code here
     // Step 1: Count frequencies
     // Step 2: Find first with count = 1
-    
+    const seen = new Map<string, number>();
+    for(const letter of s){
+        seen.set(letter, (seen.get(letter) || 0) + 1);
+    }
+    for(const letter of s){
+        if(seen.get(letter) === 1){
+            return letter;
+        }
+    }
     return null;
 }
 
@@ -73,6 +81,11 @@ function groupAnagrams(words: string[]): string[][] {
     //    - Sort its letters to create key
     //    - Add word to map[key]
     // 3. Return all values from map
+    const order = new Map<string, string[]>();
+    for(const word of words){
+        order.set(word, [word.split('').sort().join('')])
+    }
+    
 
     return [];
 }
