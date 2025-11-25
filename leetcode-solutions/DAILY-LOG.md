@@ -140,6 +140,77 @@ Track your daily practice and progress here.
 
 ---
 
+### 2025-11-25 (Monday) ✅ - DAY 3 COMPLETE!
+
+**Problems Solved**: 2
+- ✅ #217 - Contains Duplicate (Easy) - Arrays & Hashing
+- ✅ #242 - Valid Anagram (Easy) - Arrays & Hashing
+
+**Time Spent**: ~2 hours
+- Contains Duplicate: 30 minutes (brute force + optimized)
+- Valid Anagram: 60 minutes (3 versions: sorting, two maps, single map)
+- AWS Module 1: 30-45 minutes
+- Complexity analysis learning: 20 minutes
+
+**What I Learned**:
+- **Multiple Solution Approaches**: Implementing brute force → optimized for each problem
+- **Complexity Deep Dive**:
+  - Why sorting is O(n log n): n elements × log n levels of comparisons
+  - Sequential loops add: O(n) + O(n) = O(n)
+  - Nested loops multiply: O(n) × O(n) = O(n²)
+- **Array vs String Comparison**:
+  - Arrays compare by reference, not value: `[1,2,3] === [1,2,3]` is false!
+  - Need `.join('')` to convert to string for comparison
+- **String Methods Mastery**: `.split('').sort().join('')` pattern
+- **Space Optimization**: Two maps vs single map approach
+- **AWS Cloud Fundamentals**:
+  - What is cloud computing
+  - Benefits: scalability, cost-efficiency, global reach
+  - Service models: IaaS, PaaS, SaaS
+  - Completed Module 1 of Cloud Practitioner
+
+**Challenges**:
+- Valid Anagram initial attempt: Reversed string instead of checking anagram
+- Array comparison bug: Using `===` on arrays doesn't work
+- Understanding why sorting dominates complexity (O(n log n))
+- Balancing time between LeetCode and AWS learning
+
+**Wins Today**: 🎉
+- ✅ Solved 2 LeetCode problems with multiple approaches each
+- ✅ Contains Duplicate: Brute force O(n²) + Hash map O(n)
+- ✅ Valid Anagram: 3 complete implementations (sorting, two maps, single map)
+- ✅ Deep understanding of complexity analysis
+- ✅ Completed AWS Cloud Practitioner Module 1
+- ✅ Updated learning goals with specific areas (complexity, array methods)
+- ✅ Maintained 3-day streak!
+- ✅ Following mandatory problem-solving approach (brute force first)
+
+**Key Insights**:
+- Multiple approaches teach more than one "perfect" solution
+- Understanding WHY an algorithm is O(n log n) is as important as knowing it
+- String/array method mastery is critical for interview speed
+- AWS learning can happen in parallel with account activation
+- Problem-solving approach (brute force → optimal) is becoming natural
+- Space-time trade-offs: sometimes using less space is worth considering
+
+**Tomorrow's Plan** (Tuesday):
+- [ ] Check AWS account status and configure (PRIORITY!)
+- [ ] Set up billing alerts (if active)
+- [ ] Set up MFA (if active)
+- [ ] Explore AWS Console (EC2, S3, RDS, Lambda)
+- [ ] LeetCode: 2 more Easy problems (continue Arrays & Hashing)
+- [ ] AWS Cloud Practitioner Module 2
+- [ ] Consider: Review Day 1-3 problems to solidify patterns
+
+**Notes**:
+- Day 3 complete - strong technical progress! 💪
+- Complexity analysis is getting clearer with each problem
+- AWS journey officially started (Module 1 done!)
+- Multiple solution approach is paying off - deeper understanding
+- Ready to configure AWS account tomorrow
+
+---
+
 ## Template for Daily Entries
 
 ```markdown
