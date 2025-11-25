@@ -236,12 +236,26 @@ Rate your current proficiency level for each area:
 
 ### Areas for Improvement (Priority Order)
 1. **Data Structures & Algorithms** - Currently beginner level, need strong foundation for interviews
+   - **Time & Space Complexity Analysis** - Need deeper understanding of Big O notation (O(n), O(n²), O(n log n))
+   - Practice analyzing complexity for nested loops, sorting, hash maps
+   - Learn to identify bottlenecks in code
+
 2. **Cloud & DevOps** - Zero experience with AWS/GCP/Azure, critical gap for senior roles
+
 3. **System Design** - Need to learn scalability, distributed systems, architectural patterns
+
 4. **JavaScript/TypeScript Fundamentals** - Strengthen core knowledge despite current usage
+   - **Array Methods** - Master map, filter, reduce, sort, slice, splice, etc.
+   - **String Manipulation** - split, join, charAt, substring, indexOf, etc.
+   - **Array vs String comparison** - Understanding reference vs value comparison
+   - Practice more with built-in methods to write cleaner code
+
 5. **Docker & Containerization** - Essential modern development skill
+
 6. **Design Patterns** - Need to learn and apply in real projects
+
 7. **Testing Practices** - Expand beyond basic unit tests to TDD, integration, E2E
+
 8. **Technical Leadership** - Build mentoring and communication skills
 
 ### Career Goals
