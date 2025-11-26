@@ -252,15 +252,22 @@ Track your daily practice and progress here.
 - Short focused sessions (lunch breaks) are effective
 - Committing after each achievement creates better progress tracking
 
+**AWS Progress** (Afternoon Session):
+- ✅ Completed AWS Cloud Practitioner Module 2
+- ✅ Created new AWS account
+- ✅ Set up billing alerts (Free Tier + CloudWatch)
+- ✅ Created budget to prevent unexpected charges
+- ✅ Set up MFA (Multi-Factor Authentication) for security
+- ✅ Reviewed AWS Free Tier limits and best practices
+
 **Still To Do Today**:
-- [ ] AWS Cloud Practitioner Module 2
-- [ ] Potentially solve 2 more problems (#1299, #392)
-- [ ] Check AWS account status
+- [ ] Solve 2 more LeetCode problems (#1299, #392)
 
 **Notes**:
 - Day 4 lunch session - efficient use of break time!
 - Pattern recognition improving (knowing when to use hash maps vs simple loops)
-- Ready to continue with AWS learning and more problems later today
+- AWS account properly secured - ready for hands-on practice!
+- Great progress: 2 LeetCode + AWS Module 2 + full account setup
 
 ---
 
