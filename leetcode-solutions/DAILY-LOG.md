@@ -6,7 +6,7 @@ Track your daily practice and progress here.
 
 ## November 2025
 
-### 2025-11-23 (Saturday) ✅ - DAY 1 COMPLETE!
+### 2025-11-23 (Sunday) ✅ - DAY 1 COMPLETE!
 
 **Problems Solved**: 1
 - ✅ #1 - Two Sum (Easy) - Arrays & Hashing
@@ -64,7 +64,7 @@ Track your daily practice and progress here.
 
 ---
 
-### 2025-11-24 (Sunday) ✅ - DAY 2 COMPLETE!
+### 2025-11-24 (Monday) ✅ - DAY 2 COMPLETE!
 
 **Problems Solved**: 3 (exceeded daily goal of 2!)
 - ✅ #387 - First Unique Character in a String (Easy) - Hash Maps
@@ -140,7 +140,7 @@ Track your daily practice and progress here.
 
 ---
 
-### 2025-11-25 (Monday) ✅ - DAY 3 COMPLETE!
+### 2025-11-25 (Tuesday) ✅ - DAY 3 COMPLETE!
 
 **Problems Solved**: 2
 - ✅ #217 - Contains Duplicate (Easy) - Arrays & Hashing
@@ -211,7 +211,7 @@ Track your daily practice and progress here.
 
 ---
 
-### 2025-11-26 (Tuesday) ✅ - DAY 4 COMPLETE!
+### 2025-11-26 (Wednesday) ✅ - DAY 4 COMPLETE!
 
 **Problems Solved**: 2
 - ✅ #1929 - Concatenation of Array (Easy) - Arrays & Hashing
@@ -273,6 +273,51 @@ Track your daily practice and progress here.
 - AWS account properly secured - ready for hands-on practice tomorrow!
 - Multiple commits per day = better progress tracking
 - Sustainable pace: ~2 hours spread across the day works well
+
+---
+
+### 2025-11-27 (Thursday) 🔄 - DAY 5 IN PROGRESS!
+
+**Problems Solved**: 1
+- ✅ #1299 - Replace Elements with Greatest Element on Right Side (Easy) - Arrays
+
+**Time Spent**: ~3 hours (so far)
+- EC2 hands-on: 45 minutes
+- AWS Module 3: 1 hour
+- LeetCode #1299: 30 minutes
+- Progress tracking: 15 minutes
+
+**AWS Progress**:
+- ✅ Completed AWS Cloud Practitioner Module 3
+- ✅ Launched first EC2 instance (t2.micro - Free Tier)
+- ✅ Connected via SSH successfully
+- ✅ Set up SSH config file for easy access
+- ✅ Verified Node.js installed (v18.20.8)
+- ✅ Explored Linux commands on remote server
+- ✅ Stopped instance properly (saving free tier hours)
+
+**What I Learned**:
+- **EC2 Basics**: How to launch virtual servers in the cloud
+- **SSH Configuration**: Creating ~/.ssh/config for easier connections
+- **Key Management**: Using .pem keys for secure authentication
+- **Free Tier Management**: Importance of stopping instances when not in use
+- **Right-to-left traversal**: Working backwards through arrays for optimization
+- **O(n²) vs O(n)**: Brute force (nested loops) vs optimized (single pass backwards)
+
+**Challenges**:
+- Initial SSH permission denied error (fixed with correct key path)
+
+**Wins Today**: 🎉
+- ✅ First successful EC2 launch and connection!
+- ✅ Practical cloud computing experience
+- ✅ SSH config setup for future ease
+
+**Still To Do Today**:
+- [ ] Solve #392 - Is Subsequence
+
+**Notes**:
+- Day 5 started with AWS focus - hands-on learning is valuable!
+- EC2 instance launch was smooth - followed security best practices
 
 ---
 
