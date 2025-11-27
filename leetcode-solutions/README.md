@@ -4,13 +4,13 @@ This folder contains all your LeetCode problem solutions, organized by topic/pat
 
 ## Progress Tracker
 
-**Total Problems Solved**: 7
-- Easy: 7
+**Total Problems Solved**: 8
+- Easy: 8
 - Medium: 0
 - Hard: 0
 
-**Current Streak**: 4 days
-**Last Updated**: 2025-11-26
+**Current Streak**: 5 days
+**Last Updated**: 2025-11-27
 
 ---
 
@@ -71,13 +71,14 @@ Solutions are organized by pattern (following NeetCode organization):
 
 ## Solved Problems
 
-### Arrays & Hashing (7/X)
+### Arrays & Hashing (8/X)
 - [✅] #1 - Two Sum (Easy) - `arrays-and-hashing/001-two-sum.ts`
 - [✅] #49 - Group Anagrams (Medium) - Hash Maps & String Manipulation
 - [✅] #58 - Length of Last Word (Easy) - `arrays-and-hashing/058-length-of-last-word.ts`
 - [✅] #217 - Contains Duplicate (Easy) - `arrays-and-hashing/217-contains-duplicate.ts`
 - [✅] #242 - Valid Anagram (Easy) - `arrays-and-hashing/242-valid-anagram.ts`
 - [✅] #387 - First Unique Character in a String (Easy) - Hash Maps
+- [✅] #1299 - Replace Elements with Greatest Element on Right Side (Easy) - `arrays-and-hashing/1299-replace-elements-with-greatest-on-right.ts`
 - [✅] #1929 - Concatenation of Array (Easy) - `arrays-and-hashing/1929-concatenation-of-array.ts`
 
 ### Two Pointers (0/X)

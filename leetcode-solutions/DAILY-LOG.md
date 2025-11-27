@@ -278,11 +278,13 @@ Track your daily practice and progress here.
 
 ### 2025-11-27 (Thursday) 🔄 - DAY 5 IN PROGRESS!
 
-**Problems Solved**: 0 (AWS focus today so far)
+**Problems Solved**: 1
+- ✅ #1299 - Replace Elements with Greatest Element on Right Side (Easy) - Arrays
 
-**Time Spent**: ~2.5 hours (so far)
+**Time Spent**: ~3 hours (so far)
 - EC2 hands-on: 45 minutes
 - AWS Module 3: 1 hour
+- LeetCode #1299: 30 minutes
 - Progress tracking: 15 minutes
 
 **AWS Progress**:
@@ -299,6 +301,8 @@ Track your daily practice and progress here.
 - **SSH Configuration**: Creating ~/.ssh/config for easier connections
 - **Key Management**: Using .pem keys for secure authentication
 - **Free Tier Management**: Importance of stopping instances when not in use
+- **Right-to-left traversal**: Working backwards through arrays for optimization
+- **O(n²) vs O(n)**: Brute force (nested loops) vs optimized (single pass backwards)
 
 **Challenges**:
 - Initial SSH permission denied error (fixed with correct key path)
@@ -309,7 +313,6 @@ Track your daily practice and progress here.
 - ✅ SSH config setup for future ease
 
 **Still To Do Today**:
-- [ ] Solve #1299 - Replace Elements
 - [ ] Solve #392 - Is Subsequence
 
 **Notes**:
