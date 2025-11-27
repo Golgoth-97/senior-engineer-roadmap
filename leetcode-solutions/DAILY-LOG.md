@@ -280,11 +280,13 @@ Track your daily practice and progress here.
 
 **Problems Solved**: 0 (AWS focus today so far)
 
-**Time Spent**: ~1.5 hours (so far)
+**Time Spent**: ~2.5 hours (so far)
 - EC2 hands-on: 45 minutes
-- AWS Module 3: 45 minutes (in progress)
+- AWS Module 3: 1 hour
+- Progress tracking: 15 minutes
 
-**AWS Hands-On Progress**:
+**AWS Progress**:
+- ✅ Completed AWS Cloud Practitioner Module 3
 - ✅ Launched first EC2 instance (t2.micro - Free Tier)
 - ✅ Connected via SSH successfully
 - ✅ Set up SSH config file for easy access
@@ -307,7 +309,6 @@ Track your daily practice and progress here.
 - ✅ SSH config setup for future ease
 
 **Still To Do Today**:
-- [ ] Complete AWS Module 3
 - [ ] Solve #1299 - Replace Elements
 - [ ] Solve #392 - Is Subsequence
 
