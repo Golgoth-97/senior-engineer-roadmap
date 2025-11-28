@@ -326,17 +326,15 @@ Track your daily practice and progress here.
 **Problems Solved**: 1
 - ✅ #392 - Is Subsequence (Easy) - Two Pointers
 
-**Time Spent**: ~1.5 hours
+**Time Spent**: ~2 hours (so far)
 - LeetCode #392: 45 minutes
 - AWS S3 hands-on: 30 minutes
+- AWS Lambda hands-on: 30 minutes
 - Progress tracking: 15 minutes
 
-**AWS S3 Progress**:
-- ✅ Created first S3 bucket (gabriel-first-bucket-2025)
-- ✅ Configured bucket policy for public access
-- ✅ Uploaded files (image and HTML)
-- ✅ Hosted static webpage on S3
-- ✅ Accessed files via public URLs
+**AWS Progress**:
+- ✅ **S3**: Created bucket, configured policies, hosted static webpage
+- ✅ **Lambda**: Created serverless function, wrote Node.js code, tested with events
 
 **What I Learned**:
 - **Two Pointers Technique**: Using two index variables to traverse data efficiently
@@ -346,6 +344,9 @@ Track your daily practice and progress here.
 - **S3 Basics**: Cloud object storage for files
 - **Bucket Policies**: JSON policies to control access (better than ACLs)
 - **Static Website Hosting**: S3 can host HTML/CSS/JS files
+- **Lambda (Serverless)**: Run code without managing servers
+- **Event-driven architecture**: Functions respond to events
+- **Auto-scaling**: AWS handles traffic automatically
 
 **Challenges**:
 - Understanding when both pointers should move vs just one
@@ -354,16 +355,21 @@ Track your daily practice and progress here.
 **Wins Today**: 🎉
 - ✅ Learned NEW pattern (two pointers!)
 - ✅ Solved with hints, debugged independently
-- ✅ First S3 bucket created and configured
-- ✅ Hosted static webpage on AWS
+- ✅ 2 AWS services mastered (S3 + Lambda)
+- ✅ Hosted static webpage on S3
+- ✅ Created serverless function
 - ✅ 6-day streak maintained!
 - ✅ 9 total problems (30% toward quarterly goal!)
 
+**Still To Do Today**:
+- [ ] AWS Module (after commit)
+
 **Notes**:
 - Two pointers is a fundamental technique for many problems
-- S3 is incredibly useful for hosting static content
-- Bucket policies provide fine-grained access control
-- Balancing LeetCode + AWS hands-on works well
+- S3 + Lambda are core AWS services used everywhere
+- Serverless computing eliminates server management
+- Balancing LeetCode + AWS hands-on works extremely well
+- Productive day: 1 LeetCode + 2 AWS services!
 
 ---
 
