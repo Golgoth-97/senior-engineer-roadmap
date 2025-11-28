@@ -4,13 +4,13 @@ This folder contains all your LeetCode problem solutions, organized by topic/pat
 
 ## Progress Tracker
 
-**Total Problems Solved**: 8
-- Easy: 8
+**Total Problems Solved**: 9
+- Easy: 9
 - Medium: 0
 - Hard: 0
 
-**Current Streak**: 5 days
-**Last Updated**: 2025-11-27
+**Current Streak**: 6 days
+**Last Updated**: 2025-11-28
 
 ---
 
@@ -81,7 +81,8 @@ Solutions are organized by pattern (following NeetCode organization):
 - [✅] #1299 - Replace Elements with Greatest Element on Right Side (Easy) - `arrays-and-hashing/1299-replace-elements-with-greatest-on-right.ts`
 - [✅] #1929 - Concatenation of Array (Easy) - `arrays-and-hashing/1929-concatenation-of-array.ts`
 
-### Two Pointers (0/X)
+### Two Pointers (1/X)
+- [✅] #392 - Is Subsequence (Easy) - `arrays-and-hashing/392-is-subsequence.ts`
 - [ ] #125 - Valid Palindrome (Easy)
 - [ ] #167 - Two Sum II (Medium)
 

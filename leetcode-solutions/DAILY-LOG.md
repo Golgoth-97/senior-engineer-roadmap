@@ -321,6 +321,37 @@ Track your daily practice and progress here.
 
 ---
 
+### 2025-11-28 (Friday) ✅ - DAY 6 COMPLETE!
+
+**Problems Solved**: 1
+- ✅ #392 - Is Subsequence (Easy) - Two Pointers
+
+**Time Spent**: ~1 hour
+- LeetCode #392: 45 minutes
+- Progress tracking: 15 minutes
+
+**What I Learned**:
+- **Two Pointers Technique**: Using two index variables to traverse data efficiently
+- **Pattern vs Data Structure**: Two pointers is a technique, not a data structure
+- **O(n) single pass**: More efficient than nested loops
+- **String indexing**: Can access s[i] directly without split()
+
+**Challenges**:
+- Understanding when both pointers should move vs just one
+- Initial approach didn't maintain order
+
+**Wins Today**: 🎉
+- ✅ Learned NEW pattern (two pointers!)
+- ✅ Solved with hints, debugged independently
+- ✅ 6-day streak maintained!
+- ✅ 9 total problems (30% toward quarterly goal!)
+
+**Notes**:
+- Two pointers is a fundamental technique for many problems
+- Pattern recognition improving
+
+---
+
 ## Template for Daily Entries
 
 ```markdown
