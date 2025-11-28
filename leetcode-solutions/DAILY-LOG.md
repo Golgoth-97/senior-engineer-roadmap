@@ -361,9 +361,6 @@ Track your daily practice and progress here.
 - ✅ 6-day streak maintained!
 - ✅ 9 total problems (30% toward quarterly goal!)
 
-**Still To Do Today**:
-- [ ] AWS Module (after commit)
-
 **Notes**:
 - Two pointers is a fundamental technique for many problems
 - S3 + Lambda are core AWS services used everywhere
