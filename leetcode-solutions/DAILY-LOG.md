@@ -326,15 +326,26 @@ Track your daily practice and progress here.
 **Problems Solved**: 1
 - ✅ #392 - Is Subsequence (Easy) - Two Pointers
 
-**Time Spent**: ~1 hour
+**Time Spent**: ~1.5 hours
 - LeetCode #392: 45 minutes
+- AWS S3 hands-on: 30 minutes
 - Progress tracking: 15 minutes
+
+**AWS S3 Progress**:
+- ✅ Created first S3 bucket (gabriel-first-bucket-2025)
+- ✅ Configured bucket policy for public access
+- ✅ Uploaded files (image and HTML)
+- ✅ Hosted static webpage on S3
+- ✅ Accessed files via public URLs
 
 **What I Learned**:
 - **Two Pointers Technique**: Using two index variables to traverse data efficiently
 - **Pattern vs Data Structure**: Two pointers is a technique, not a data structure
 - **O(n) single pass**: More efficient than nested loops
 - **String indexing**: Can access s[i] directly without split()
+- **S3 Basics**: Cloud object storage for files
+- **Bucket Policies**: JSON policies to control access (better than ACLs)
+- **Static Website Hosting**: S3 can host HTML/CSS/JS files
 
 **Challenges**:
 - Understanding when both pointers should move vs just one
@@ -343,12 +354,16 @@ Track your daily practice and progress here.
 **Wins Today**: 🎉
 - ✅ Learned NEW pattern (two pointers!)
 - ✅ Solved with hints, debugged independently
+- ✅ First S3 bucket created and configured
+- ✅ Hosted static webpage on AWS
 - ✅ 6-day streak maintained!
 - ✅ 9 total problems (30% toward quarterly goal!)
 
 **Notes**:
 - Two pointers is a fundamental technique for many problems
-- Pattern recognition improving
+- S3 is incredibly useful for hosting static content
+- Bucket policies provide fine-grained access control
+- Balancing LeetCode + AWS hands-on works well
 
 ---
 
