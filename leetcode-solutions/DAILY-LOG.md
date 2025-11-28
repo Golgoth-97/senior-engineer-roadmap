@@ -321,6 +321,55 @@ Track your daily practice and progress here.
 
 ---
 
+### 2025-11-28 (Friday) ✅ - DAY 6 COMPLETE!
+
+**Problems Solved**: 1
+- ✅ #392 - Is Subsequence (Easy) - Two Pointers
+
+**Time Spent**: ~2 hours (so far)
+- LeetCode #392: 45 minutes
+- AWS S3 hands-on: 30 minutes
+- AWS Lambda hands-on: 30 minutes
+- Progress tracking: 15 minutes
+
+**AWS Progress**:
+- ✅ **S3**: Created bucket, configured policies, hosted static webpage
+- ✅ **Lambda**: Created serverless function, wrote Node.js code, tested with events
+
+**What I Learned**:
+- **Two Pointers Technique**: Using two index variables to traverse data efficiently
+- **Pattern vs Data Structure**: Two pointers is a technique, not a data structure
+- **O(n) single pass**: More efficient than nested loops
+- **String indexing**: Can access s[i] directly without split()
+- **S3 Basics**: Cloud object storage for files
+- **Bucket Policies**: JSON policies to control access (better than ACLs)
+- **Static Website Hosting**: S3 can host HTML/CSS/JS files
+- **Lambda (Serverless)**: Run code without managing servers
+- **Event-driven architecture**: Functions respond to events
+- **Auto-scaling**: AWS handles traffic automatically
+
+**Challenges**:
+- Understanding when both pointers should move vs just one
+- Initial approach didn't maintain order
+
+**Wins Today**: 🎉
+- ✅ Learned NEW pattern (two pointers!)
+- ✅ Solved with hints, debugged independently
+- ✅ 2 AWS services mastered (S3 + Lambda)
+- ✅ Hosted static webpage on S3
+- ✅ Created serverless function
+- ✅ 6-day streak maintained!
+- ✅ 9 total problems (30% toward quarterly goal!)
+
+**Notes**:
+- Two pointers is a fundamental technique for many problems
+- S3 + Lambda are core AWS services used everywhere
+- Serverless computing eliminates server management
+- Balancing LeetCode + AWS hands-on works extremely well
+- Productive day: 1 LeetCode + 2 AWS services!
+
+---
+
 ## Template for Daily Entries
 
 ```markdown
