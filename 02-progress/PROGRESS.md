@@ -198,15 +198,24 @@ Rate your current proficiency level for each area:
 ## Interview Preparation
 
 ### LeetCode/Algorithm Practice
-- **Total Problems Solved**: 1 (mastered) + 1 (needs redo)
-- **Easy**: 1 completed, 1 in progress
+- **Total Problems Solved**: 10 (Week 1 goal complete!)
+- **Easy**: 10
 - **Medium**: 0
 - **Hard**: 0
 - **Breakdown**:
-  - ✅ #217 - Contains Duplicate (solved correctly in practice)
-  - ⏳ #1 - Two Sum (learned pattern, needs clean re-solve)
-- **Recent Focus**: Arrays & Hashing, Hash Maps
-- **Last Updated**: 2025-11-23
+  - ✅ #1 - Two Sum (Arrays & Hashing)
+  - ✅ #49 - Group Anagrams (Hash Maps)
+  - ✅ #58 - Length of Last Word (String Manipulation)
+  - ✅ #125 - Valid Palindrome (Two Pointers)
+  - ✅ #217 - Contains Duplicate (Hash Maps)
+  - ✅ #242 - Valid Anagram (Hash Maps)
+  - ✅ #387 - First Unique Character (Hash Maps)
+  - ✅ #392 - Is Subsequence (Two Pointers)
+  - ✅ #1299 - Replace Elements with Greatest Element on Right Side (Arrays)
+  - ✅ #1929 - Concatenation of Array (Arrays)
+- **Patterns Learned**: Hash Maps, Two Pointers, Arrays, String Manipulation
+- **Recent Focus**: Two Pointers pattern (Days 6-7)
+- **Last Updated**: 2025-11-29
 
 ### System Design Practice
 - [ ] Design URL shortener
