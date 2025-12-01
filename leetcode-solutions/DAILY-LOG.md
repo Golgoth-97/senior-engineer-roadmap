@@ -370,6 +370,65 @@ Track your daily practice and progress here.
 
 ---
 
+### 2025-11-29 (Saturday) ✅ - DAY 7 COMPLETE!
+
+**Problems Solved**: 1
+- ✅ #125 - Valid Palindrome (Easy) - Two Pointers & String Manipulation
+
+**Time Spent**: ~1.5 hours
+- Problem solving: 45 minutes (both brute force and two-pointer solutions)
+- Debugging and testing: 30 minutes
+- Performance analysis: 15 minutes
+
+**Difficulty**:
+- How hard was it? [4/10] - Moderate, needed hints on edge cases
+- Did you need hints? Yes - for handling both non-alphanumeric characters case
+- Did you look at the solution? No - solved with hints only
+
+**What I Learned**:
+- **Two-pointer pattern reinforcement**: Building on #392, using left/right pointers
+- **Edge case handling**: Must handle ALL 5 cases (both alphanumeric, one alphanumeric, neither)
+- **Real-world performance vs Big O**: Brute force (97.8%) beat two-pointers (15%) on LeetCode!
+- **Built-in methods are optimized**: `toLowerCase()`, `replace()`, `reverse()` are implemented in C/C++
+- **Function call overhead matters**: Multiple `isAlphanumeric()` calls add significant overhead
+- **When to use each approach**:
+  - Brute force: Better for typical inputs, uses optimized built-ins
+  - Two pointers: Better for huge inputs or memory-constrained environments
+- **Critical thinking**: Always measure performance, don't just trust theory!
+
+**Challenges**:
+- Initially missed the case where both characters are non-alphanumeric (infinite loop)
+- Had duplicate conditions in if/else chain
+- Understanding why "optimal" solution was slower in practice
+
+**Wins Today**: 🎉
+- ✅ Solved #125 with BOTH approaches (brute force + two pointers)
+- ✅ Hit 10/10 problems goal for Week 1!
+- ✅ Learned important lesson: Big O theory vs real-world performance
+- ✅ Debugged edge cases independently with hints
+- ✅ 7-day streak maintained!
+- ✅ 33% toward quarterly goal (10/30 problems)!
+
+**Key Insights**:
+- Two-pointer pattern is becoming clearer (2nd problem using this technique)
+- Edge case thinking is improving (identified missing condition)
+- Performance analysis is critical - always test both approaches
+- Built-in methods are friends, not enemies - they're highly optimized
+- Senior engineers understand trade-offs between theory and practice
+
+**Next Steps**:
+- Morning Session: Review patterns from all 10 problems
+- Afternoon Session: Plan first practice project (URL Shortener)
+- Write weekly reflection
+
+**Notes**:
+- Day 7 complete - Week 1 LeetCode goal achieved! 💪
+- Ready for Morning Session review
+- This problem taught valuable lessons beyond just solving it
+- Understanding performance trade-offs is a senior-level skill
+
+---
+
 ## Template for Daily Entries
 
 ```markdown

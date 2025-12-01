@@ -72,7 +72,7 @@ When starting a new project, document:
 
 | Project | Current Phase | Target Skills | Started |
 |---------|--------------|---------------|---------|
-| - | - | - | - |
+| URL Shortener | Database & Entities Setup | System Design, NestJS, PostgreSQL, TypeORM, JWT Auth, Docker | 2025-11-29 |
 
 ## Ideas Backlog
 
