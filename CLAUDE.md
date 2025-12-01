@@ -40,3 +40,33 @@ When assisting with this repository:
 - Date progress entries for historical tracking
 - Organize resources by topic/skill area
 - Keep project code separate from documentation
+
+## Working Preferences & Rules
+
+These are user-defined preferences for how Claude should assist:
+
+### Code Assistance
+- **Guide, don't write**: Provide guidance, explanations, and suggestions
+- **Code only when asked**: Only provide code snippets when explicitly requested by the user
+- **Let the user implement**: The user wants to write the code themselves to maximize learning
+- **Explain concepts**: Focus on teaching the "why" and "how" rather than providing ready-made solutions
+
+### LeetCode Problem-Solving Approach
+- **ALWAYS start with TRUE brute force**:
+  - Use raw loops (`for`, `while`) and manual checks
+  - NO optimized built-in methods (`.sort()`, `.reverse()`, regex, etc.)
+  - NO advanced data structures (Map, Set, etc.)
+  - Just basic programming constructs: loops, conditionals, arrays
+- **Then optimize**: After brute force works, improve it with better algorithms/data structures
+- **Verify correctness**:
+  - Ensure "brute force" is actually brute force (manual loops, no built-ins)
+  - Ensure "optimized" solution is actually optimized (better time/space complexity)
+  - Call out if a solution is mislabeled (e.g., using `.sort()` is not brute force)
+
+### Communication Style
+- Be concise and clear
+- Provide options and let the user choose
+- Ask clarifying questions when ambiguous
+- Celebrate wins and progress
+
+**Note**: These preferences may be updated over time. Always check this section for the latest rules.
